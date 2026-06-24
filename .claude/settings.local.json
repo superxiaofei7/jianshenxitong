@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"E:\\\\jianshenxitong\\\\backend\\\\src\\\\main\\\\java\\\\com\\\\gym\\\\{config,common,entity,mapper,service\\\\impl,controller}\")",
+      "Bash(mkdir -p \"E:\\\\jianshenxitong\\\\backend\\\\src\\\\main\\\\resources\")",
+      "Bash(mkdir -p \"E:\\\\jianshenxitong\\\\frontend\\\\src\\\\{router,views,components,api,store,assets}\")",
+      "Bash(mkdir -p \"E:\\\\jianshenxitong\\\\sql\")"
+    ]
+  }
+}
